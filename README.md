@@ -1,2 +1,2 @@
 # perspectiva-dado
-Repositório para as atividades do curso de Perspectivas em Ciências de Dados, prof Thiago
+Repositório para as atividades do curso de Perspectivas em CD
